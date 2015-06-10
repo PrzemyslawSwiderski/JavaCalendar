@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 2015-05-24 15:44:51 by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="com.mycompany.gui.Zdarzenie" table="zdarzenie" catalog="bazadanych" optimistic-lock="version">
+        <id name="idZdarzenie" type="java.lang.Integer">
+            <column name="idZdarzenie" />
+            <generator class="identity" />
+        </id>
+        <property name="data" type="date">
+            <column name="data" length="10" />
+        </property>
+        <property name="godzina" type="java.lang.Integer">
+            <column name="godzina" />
+        </property>
+        <property name="minuta" type="java.lang.Integer">
+            <column name="minuta" />
+        </property>
+        <property name="nazwa" type="string">
+            <column name="nazwa" />
+        </property>
+        <property name="miejsce" type="string">
+            <column name="miejsce" length="45" />
+        </property>
+        <property name="przypomnienie" type="java.lang.Integer">
+            <column name="przypomnienie" />
+        </property>
+    </class>
+</hibernate-mapping>

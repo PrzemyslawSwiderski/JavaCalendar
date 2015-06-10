@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_11" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="com.mycompany.gui.Zdarzenie">
+    <void property="data">
+     <object class="java.sql.Date">
+      <long>1430863200000</long>
+     </object>
+    </void>
+    <void property="godzina">
+     <int>8</int>
+    </void>
+    <void property="idZdarzenie">
+     <int>1</int>
+    </void>
+    <void property="miejsce">
+     <string>fdasfsd</string>
+    </void>
+    <void property="minuta">
+     <int>30</int>
+    </void>
+    <void property="nazwa">
+     <string>fasfasd</string>
+    </void>
+    <void property="przypomnienie">
+     <int>0</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mycompany.gui.Zdarzenie">
+    <void property="data">
+     <object class="java.sql.Date">
+      <long>1425769200000</long>
+     </object>
+    </void>
+    <void property="godzina">
+     <int>9</int>
+    </void>
+    <void property="idZdarzenie">
+     <int>2</int>
+    </void>
+    <void property="miejsce">
+     <string>fdsf</string>
+    </void>
+    <void property="minuta">
+     <int>24</int>
+    </void>
+    <void property="nazwa">
+     <string>fdsfds</string>
+    </void>
+    <void property="przypomnienie">
+     <int>0</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mycompany.gui.Zdarzenie">
+    <void property="data">
+     <object class="java.sql.Date">
+      <long>1425337200000</long>
+     </object>
+    </void>
+    <void property="godzina">
+     <int>6</int>
+    </void>
+    <void property="idZdarzenie">
+     <int>3</int>
+    </void>
+    <void property="miejsce">
+     <string>fdsf</string>
+    </void>
+    <void property="minuta">
+     <int>24</int>
+    </void>
+    <void property="nazwa">
+     <string>fdsfdsdfsf</string>
+    </void>
+    <void property="przypomnienie">
+     <int>0</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mycompany.gui.Zdarzenie">
+    <void property="data">
+     <object class="java.sql.Date">
+      <long>1425769200000</long>
+     </object>
+    </void>
+    <void property="godzina">
+     <int>6</int>
+    </void>
+    <void property="idZdarzenie">
+     <int>4</int>
+    </void>
+    <void property="miejsce">
+     <string>fdsf</string>
+    </void>
+    <void property="minuta">
+     <int>24</int>
+    </void>
+    <void property="nazwa">
+     <string>fdsfdsdfsf</string>
+    </void>
+    <void property="przypomnienie">
+     <int>0</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mycompany.gui.Zdarzenie">
+    <void property="data">
+     <object class="java.sql.Date">
+      <long>1426028400000</long>
+     </object>
+    </void>
+    <void property="godzina">
+     <int>6</int>
+    </void>
+    <void property="idZdarzenie">
+     <int>5</int>
+    </void>
+    <void property="miejsce">
+     <string>fdsf</string>
+    </void>
+    <void property="minuta">
+     <int>24</int>
+    </void>
+    <void property="nazwa">
+     <string>fdsfdsdfsf</string>
+    </void>
+    <void property="przypomnienie">
+     <int>0</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mycompany.gui.Zdarzenie">
+    <void property="data">
+     <object class="java.sql.Date">
+      <long>1430517600000</long>
+     </object>
+    </void>
+    <void property="godzina">
+     <int>12</int>
+    </void>
+    <void property="idZdarzenie">
+     <int>6</int>
+    </void>
+    <void property="miejsce">
+     <string>Zgierz</string>
+    </void>
+    <void property="minuta">
+     <int>30</int>
+    </void>
+    <void property="nazwa">
+     <string>Jakies Zdarzenie</string>
+    </void>
+    <void property="przypomnienie">
+     <int>0</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.mycompany.gui.Zdarzenie">
+    <void property="data">
+     <object class="java.sql.Date">
+      <long>1456527600000</long>
+     </object>
+    </void>
+    <void property="godzina">
+     <int>9</int>
+    </void>
+    <void property="idZdarzenie">
+     <int>7</int>
+    </void>
+    <void property="miejsce">
+     <string>sdasd</string>
+    </void>
+    <void property="minuta">
+     <int>18</int>
+    </void>
+    <void property="nazwa">
+     <string>dsaf</string>
+    </void>
+    <void property="przypomnienie">
+     <int>0</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
